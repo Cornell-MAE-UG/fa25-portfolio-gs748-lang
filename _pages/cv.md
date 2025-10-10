@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Gwendolyn Simon - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,50 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [gs748@cornell.edu](mailto:gs748ID@cornell.edu) | | | **Phone:** 3472542794
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in robotics Passionate about CAD modeling and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  Graduation: May, 2028
 
-- **[High School Name]**  
+- **Horace Mann**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Software:** Autodesk Fusion 360  
+- **Programming:** Python  
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Statics Mechanism Project**:  
+  *A class project where we made a mechanism to lift a load using a linear actuator.*  
+  - Used Physics in real world applications   
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **[Tyger Fit Labs - Intern**  
+  May, 2025 - August, 2025  
+  -Designed and fabricated multiple product prototypes using 3D modeling software and 3D printing technologies 
+  - Collaborated with cross-functional team members to refine hardware and software systems, improving data collection accuracy and enhancing consumer usability  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell CUP Robotics    
 
 ---
 
