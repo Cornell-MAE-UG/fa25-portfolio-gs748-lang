@@ -1,7 +1,7 @@
 ---
 layout: project
-description: Client Outline and Pitch for MAE2250 ODP
-image: assets/images/Spotted Lanternfly.jpeg
+description: Client Outline and Pitch for Spotted Lanternfly ODP
+image: assets/images/SpottedLanternfly_Lifecycle_circle.jpeg
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
