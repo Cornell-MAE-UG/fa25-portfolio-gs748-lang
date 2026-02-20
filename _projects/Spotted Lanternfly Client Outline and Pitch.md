@@ -1,7 +1,7 @@
 ---
 layout: project
 description: Client Outline and Pitch for Spotted Lanternfly ODP
-image: assets/images/SpottedLanternfly.jpeg
+image: assets/images/SpottedLanternfly.png
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
