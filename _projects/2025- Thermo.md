@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Thermodynamics Project"
-image: /assets/images/Diagram.png
 Description: Class Project
 ---
 Teammates: Dani Cheng (dc993)

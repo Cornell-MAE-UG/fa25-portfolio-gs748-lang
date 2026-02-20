@@ -1,7 +1,6 @@
 ---
 layout: project
 description: Client Outline and Pitch for Spotted Lanternfly ODP
-image: assets/images/SpottedLanternfly.png
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
@@ -14,6 +13,7 @@ header-includes:
   - \addtolength{\textheight}{0.6in}
   - \addtolength{\topmargin}{-0.3in}
 ---
+![SpottedLanternfly]({{ "assets/images/SpottedLanternfly.png" | relative_url }}){: class="projects"}
 
 # SWATR: A Scalable Robotic Lanternfly Removal Attachment
 **Team:** The Bug Busting Crew  
