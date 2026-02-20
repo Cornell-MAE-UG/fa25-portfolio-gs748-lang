@@ -14,6 +14,7 @@ header-includes:
   - \addtolength{\textheight}{0.6in}
   - \addtolength{\topmargin}{-0.3in}
 ---
+![Spotted Lanternfly Lifecycle]({{ "assets/images/SpottedLanternfly.jpeg" | relative_url }}){: class="projects"}
 
 # SWATR: A Scalable Robotic Lanternfly Removal Attachment
 **Team:** The Bug Busting Crew  
