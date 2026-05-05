@@ -55,8 +55,6 @@ The final prototype was a four-DOF end effector with gripping, telescoping, wris
 
 The concept is worth continuing. The final prototype met the major benchtop success criteria, exceeded the motion and speed targets, and demonstrated enough grip strength to justify integration work. It is not yet ready for field deployment because target acquisition and grasp planning remain open-loop and the current validation was performed in a controlled test environment. The next design cycle should prioritize three linked tasks: integrate AI vision so the gripper can detect object shape, pose, and gripping requirements in real time; package the mounting, power, and control interfaces for compatibility with existing rover platforms; and preserve the compliant mesh paddle concept while improving durability and repeatability for longer test campaigns.
 
-# References
-
 ## References
 
 - A: https://extension.psu.edu/spotted-lanternfly-management-guide
