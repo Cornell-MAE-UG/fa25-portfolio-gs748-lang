@@ -1,0 +1,61 @@
+---
+layout: project
+title: "SWATR: Scalable Robotic Lanternfly Removal"
+description: "A modular robotic attachment for targeted pest control in vineyards."
+---
+
+# MAE2250: Spotted Lanternfly ODP
+
+**Context:** This project was developed for MAE2250: Mechanical Synthesis. Our team, "The Bug Busting Crew," was tasked with designing a solution to combat the Spotted Lanternfly (SLF) infestation affecting Cornell CALS and various winery partners.
+
+---
+
+### Project Milestones
+* [Milestone 1: Client Outline & Pitch](#pitch)
+* [Milestone 2: Functional Prototype](#prototype)
+* [Milestone 3: Final Client Report](#report)
+
+---
+
+<a name="pitch"></a>
+## 1. Client Outline & Pitch
+**Goal:** Address the labor-intensive gap in SLF management using modular robotics.
+
+### Problem Statement
+Spotted lanternflies (SLF) cause major damage to vineyards, but current control methods do not scale. Growers often require **2–6+ pesticide applications per season**. While agricultural mobile robots exist, they lack tools for targeted physical removal. 
+
+### Proposed Direction: SWATR Modular Removal Arm
+A lightweight robotic arm with a specialized end-effector to physically remove adult SLFs or egg masses. This tool is designed to mount on existing platforms like the Burro or Amiga robots, automating repetitive scouting and removal tasks.
+
+---
+
+<a name="prototype"></a>
+## 2. Functional Prototype
+**Goal:** Demonstrate a "proof-of-concept" end-effector and containment system.
+
+*Insert a brief blurb here about your specific O5 milestone results. For example: "Our prototype successfully demonstrated a suction-based/mechanical scraping end-effector capable of clearing 90% of mock targets from a vertical bark surface in under 5 seconds."*
+
+---
+
+<a name="report"></a>
+## 3. Final Client Report
+**Goal:** Conclusion, recommendations, and technical breakdown.
+
+### Proposed Solution & Prototype
+The SWATR system utilizes a **[insert specific mechanism from your PDF, e.g., vacuum-suction / mechanical brush]** end-effector. The prototype was tested for efficiency against the jumping reflex of adult SLFs.
+
+### How it Works
+1. **Detection:** Integrated sensors (or manual flagging) identify the SLF.
+2. **Approach:** The arm maneuvers to a specific offset from the vine.
+3. **Removal:** The end-effector activates, dislodging the pest.
+4. **Containment:** Targets are diverted into a mesh collection bin for disposal.
+
+### Conclusion & Recommendations
+Our testing confirms that physical removal is viable but requires a cycle time of less than 3 seconds per insect to remain competitive with manual labor. 
+
+**Next Steps:**
+* **Sensor Integration:** Integrate computer vision for autonomous "spot and swat."
+* **Durability:** Hardening the arm for 24/7 vineyard environments (weatherproofing).
+* **Speed:** Optimizing the retract sequence to increase acres-per-hour coverage.
+
+---
